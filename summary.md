@@ -1,8 +1,7 @@
 # Engenharia de software
 
-* Trata da criação, desenvolvimento e manutenção de software;
-* Aplicação sistemática de princípios, métodos e práticas para o
-desenvolvimento, manutenção e evolução de software de qualidade.
+* __Definição__: Trata da criação, desenvolvimento e manutenção de software;
+* __Importância__: Aplicação sistemática de princípios, métodos e práticas para o desenvolvimento, manutenção e evolução de software de qualidade.
 
 ## Fases de um projeto de software
 
@@ -14,7 +13,7 @@ desenvolvimento, manutenção e evolução de software de qualidade.
   
 ## Levantamento de requisitos
 
-* Coleta de informações sobre as funcionalidades e características do sistema;
+* __Definição__: Coleta de informações sobre as funcionalidades e características do sistema;
 * Necessário para construção do projeto como um todo.
 * Envolve a identificação, documentação e análise das necessidades do usuário;
 
@@ -39,9 +38,8 @@ desenvolvimento, manutenção e evolução de software de qualidade.
 
 ## Análise de requisitos
 
-* Os requisitos coletados são analisados, refinados e organizados para
-criar uma compreensão clara do que o sistema deve fazer;
-* Objetivo: garantir que os requisitos sejam completos, consistentes, precisos e compreensíveis antes de prosseguir para as fases de design e implementação.
+* Os requisitos coletados são analisados, refinados e organizados para criar uma compreensão clara do que o sistema deve fazer;
+* __Objetivo__: garantir que os requisitos sejam completos, consistentes, precisos e compreensíveis antes de prosseguir para as fases de design e implementação.
 
 ### Passos da análise de requisitos
 
@@ -59,9 +57,7 @@ criar uma compreensão clara do que o sistema deve fazer;
 ## Projeto de Software
 
 * __Definição__: Processo de planejamento e design de um software antes de sua implementação.
-* __Importância do Projeto de Software__: Economiza tempo
-e recursos. Reduz riscos de erros e retrabalho. Facilita a
-comunicação entre a equipe de desenvolvimento.
+* __Importância__: Economiza tempo e recursos. Reduz riscos de erros e retrabalho. Facilita a comunicação entre a equipe de desenvolvimento.
 
 ### Modelo Cascata
 
@@ -94,3 +90,24 @@ São suas fases:
 
 * __Definição__: Definição: Soluções para problemas recorrentes no design de software.
 * Exemplos de padrões de projeto: Padrão de Projeto Singleton, Padrão de Projeto Observer, Padrão de Projeto MVC, entre outros.
+
+## Implementação e Programação de Software
+
+* __Planejamento__: Definir os requisitos do software, criar diagramas de fluxo, esboçar a arquitetura geral e identificar os recursos necessários.
+* __Requisitos do Software__: Compreender claramente o
+que o software deve fazer e quais são suas funcionalidades. Isso pode ser feito por meio de interações com os stakeholders e a criação de documentos de requisitos detalhados.
+* __Diagramas de Fluxo__: Visam ilustrar como os diferentes componentes do sistema se comunicam. Podem ser usados para modelar processos de negócios e fluxos de trabalho do sistema.
+* __Arquitetura do Software__: O seu objetivo é dividir o sistema em módulos, definir suas responsabilidades e as interações entre eles.
+* __Escolha de Linguagem e Tecnologias__: Nessa etapa são considerados pontos importantes: a finalidade do software, a expertise da equipe e a escalabilidade do mesmo.
+* __Práticas de Codificação__: Seguir padrões de codificação, aplicar boas práticas de programação, comentar e documentar o projeto são fatores importantes nesta etapa.
+* __Controle de Versão__: O controle de versão é crucial para
+acompanhar as mudanças no código ao longo do tempo e colaborar com outros desenvolvedores.
+* __Testes__:  São essenciais para garantir que o software funcione conforme o esperado, os mais importantes são: _Testes unitários_, _Testes de integração_ e _Testes de aceitação_.
+* __Refatoração__: Visa melhorar o código existente sem alterar seu comportamento externo. Isso ajuda a melhorar a legibilidade, a eficiência e a manutenibilidade do código
+* __Automação e Implantação__: Automatize processos como compilação, testes e implantação para garantir eficiência e consistência. Ferramentas como _Jenkins_ e _Docker_ são úteis nesse contexto.
+* __Segurança__: Garanta que o software seja seguro contra
+_ameaças cibernéticas_. Isso envolve proteger os dados,
+validar entradas do usuário, evitar vulnerabilidades
+conhecidas e adotar práticas de codificação seguras.
+
+

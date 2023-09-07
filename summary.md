@@ -55,3 +55,42 @@ criar uma compreensão clara do que o sistema deve fazer;
 8. Validação com as partes interessadas.
 9. Documentação dos requisitos.
 10. Revisão final e aprovação.
+
+## Projeto de Software
+
+* __Definição__: Processo de planejamento e design de um software antes de sua implementação.
+* __Importância do Projeto de Software__: Economiza tempo
+e recursos. Reduz riscos de erros e retrabalho. Facilita a
+comunicação entre a equipe de desenvolvimento.
+
+### Modelo Cascata
+
+* Fases sequencias, onde só se passa para proxima fase após ter todas as informações e/ou requisitos necessários.
+
+### Modelo Ágil (Scrum)
+
+Desenvolvimento dividido em sprints curtos e bem definidos.
+São suas fases: 
+
+* __Product Backlog__: listar todas as tarefas desejadas;
+* __Sprint Planning__: Planejamento das tarefas da sprint, definindo metas claras para a mesma;
+* __Desenvolvimento da Sprint__: Implementação das funcionalidades selecionadas;
+* __Revisão da Sprint__: Reunião para obter feedback da equipe e stackholders, visando analisar o que foi feito.
+* __Retrospectiva da Sprint__:  Refletir sobre o que funcionou bem e o que pode ser melhorado. 
+
+## Arquitetura de Software
+
+* __Definição__: Organização fundamental de um sistema, composta por componentes, relacionamentos e propriedades.
+* __Importância__: Define a estrutura geral do sistema. Orienta o desenvolvimento de módulos e componentes. Influencia a manutenção, escalabilidade e desempenho.
+
+### Padrões de Arquitetura
+
+* __Layered Architecture__: Divide o sistema em camadas distintas, com responsabilidades específicas
+* __Client-Server Model__: Separação entre clientes(interfaces de usuário) e servidores (lógica de negócios e dados).
+* __Microservices Architecture__: Divide o sistema em serviços independentes e interconectados. Escalabilidade e manutenção simplificada.
+* __Monolithic Architecture__ Todo o sistema é desenvolvido e implantado como uma única unidade.
+
+### Design Patterns (Padrões de Projeto)
+
+* __Definição__: Definição: Soluções para problemas recorrentes no design de software.
+* Exemplos de padrões de projeto: Padrão de Projeto Singleton, Padrão de Projeto Observer, Padrão de Projeto MVC, entre outros.

@@ -110,4 +110,20 @@ _ameaças cibernéticas_. Isso envolve proteger os dados,
 validar entradas do usuário, evitar vulnerabilidades
 conhecidas e adotar práticas de codificação seguras.
 
+## Diagrama de fluxos
 
+* Visualizam os processos, as decisões e as interações dentro de um sistema ou aplicativo.
+* Ajudam a comunicar de forma clara e visual como o software irá funcionar.
+
+### Passo a passo para desenvolver os diagrama de fluxos
+
+* __Identificar o Processo__: Pode ser um processo de negócios, uma função específica do software ou qualquer outra ação relevante.
+* __Definir Símbolos__: Os diagramas de fluxo usam símbolos
+para representar diferentes elementos, como ações, decisões, entradas/saídas e conexões.
+* __Mapear os Elementos__: Desenhe os símbolos correspondentes aos processos, decisões e outras etapas do fluxo. Use linhas para conectar esses elementos e indicar a ordem em que eles ocorrem.
+* __Adicionar Detalhes__: Para cada símbolo, adicione detalhes relevantes. Por exemplo, dentro de um retângulo de processo, descreva a _ação_ que ocorre. Em um losango de decisão, descreva a _condição_ que determina o caminho a ser seguido.
+* __Definir Fluxos Alternativos__: Muitas vezes, um processo
+possui fluxos alternativos, dependendo das decisõestomadas. Desenhe diferentes caminhos no diagrama para representar essas alternativas.
+* __Validar o Diagrama__: Certifique-se de que o diagrama de
+fluxo representa com precisão o processo ou o fluxo que você está tentando visualizar.
+* __Utilizar Ferramentas de Diagramação__: Para criar diagramas de fluxo, você pode usar ferramentas de diagramação como o Microsoft Visio, Lucidchart, draw.io (online) ou até mesmo softwares de desenho vetorial como o Adobe Illustrator.
